@@ -1,0 +1,1 @@
+xcopy /Y .\Observer\bin\Debug\*.nupkg %LOCALNUGET%\*
